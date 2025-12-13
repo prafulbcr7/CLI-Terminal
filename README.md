@@ -1,3 +1,3 @@
 # CLI-Terminal
 
-My Portfolio - All Details
+My Portfolio - Details
