@@ -1,3 +1,3 @@
 # CLI-Terminal
 
-My Personal Portfolio 
+My Personal Website Portfolio 
